@@ -19,3 +19,4 @@ NASA Terrestrial Hydrology Program (Grant No. 80NSSC24K0829).
 
 License
 GPL-3.0
+https://doi.org/10.5281/zenodo.19422038
