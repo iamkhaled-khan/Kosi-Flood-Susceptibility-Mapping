@@ -18,4 +18,4 @@ Funding
 NASA Terrestrial Hydrology Program (Grant No. 80NSSC24K0829).
 
 
-DOI: https://doi.org/10.5281/zenodo.19422038
+DOI: https://doi.org/10.5281/zenodo.19422362
